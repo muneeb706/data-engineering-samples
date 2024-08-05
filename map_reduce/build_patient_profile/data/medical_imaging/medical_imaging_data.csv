@@ -1,0 +1,1001 @@
+patient_id,image_type,image_data
+patient_0,CT Scan,Image data for patient_0
+patient_1,MRI,Image data for patient_1
+patient_2,MRI,Image data for patient_2
+patient_3,CT Scan,Image data for patient_3
+patient_4,MRI,Image data for patient_4
+patient_5,MRI,Image data for patient_5
+patient_6,X-ray,Image data for patient_6
+patient_7,MRI,Image data for patient_7
+patient_8,MRI,Image data for patient_8
+patient_9,X-ray,Image data for patient_9
+patient_10,CT Scan,Image data for patient_10
+patient_11,MRI,Image data for patient_11
+patient_12,CT Scan,Image data for patient_12
+patient_13,MRI,Image data for patient_13
+patient_14,MRI,Image data for patient_14
+patient_15,X-ray,Image data for patient_15
+patient_16,CT Scan,Image data for patient_16
+patient_17,MRI,Image data for patient_17
+patient_18,CT Scan,Image data for patient_18
+patient_19,CT Scan,Image data for patient_19
+patient_20,X-ray,Image data for patient_20
+patient_21,X-ray,Image data for patient_21
+patient_22,X-ray,Image data for patient_22
+patient_23,CT Scan,Image data for patient_23
+patient_24,X-ray,Image data for patient_24
+patient_25,MRI,Image data for patient_25
+patient_26,CT Scan,Image data for patient_26
+patient_27,X-ray,Image data for patient_27
+patient_28,X-ray,Image data for patient_28
+patient_29,X-ray,Image data for patient_29
+patient_30,X-ray,Image data for patient_30
+patient_31,X-ray,Image data for patient_31
+patient_32,MRI,Image data for patient_32
+patient_33,CT Scan,Image data for patient_33
+patient_34,X-ray,Image data for patient_34
+patient_35,X-ray,Image data for patient_35
+patient_36,CT Scan,Image data for patient_36
+patient_37,CT Scan,Image data for patient_37
+patient_38,MRI,Image data for patient_38
+patient_39,MRI,Image data for patient_39
+patient_40,X-ray,Image data for patient_40
+patient_41,X-ray,Image data for patient_41
+patient_42,MRI,Image data for patient_42
+patient_43,X-ray,Image data for patient_43
+patient_44,X-ray,Image data for patient_44
+patient_45,X-ray,Image data for patient_45
+patient_46,CT Scan,Image data for patient_46
+patient_47,CT Scan,Image data for patient_47
+patient_48,MRI,Image data for patient_48
+patient_49,CT Scan,Image data for patient_49
+patient_50,CT Scan,Image data for patient_50
+patient_51,X-ray,Image data for patient_51
+patient_52,CT Scan,Image data for patient_52
+patient_53,CT Scan,Image data for patient_53
+patient_54,CT Scan,Image data for patient_54
+patient_55,CT Scan,Image data for patient_55
+patient_56,MRI,Image data for patient_56
+patient_57,MRI,Image data for patient_57
+patient_58,MRI,Image data for patient_58
+patient_59,MRI,Image data for patient_59
+patient_60,CT Scan,Image data for patient_60
+patient_61,CT Scan,Image data for patient_61
+patient_62,X-ray,Image data for patient_62
+patient_63,X-ray,Image data for patient_63
+patient_64,MRI,Image data for patient_64
+patient_65,CT Scan,Image data for patient_65
+patient_66,CT Scan,Image data for patient_66
+patient_67,X-ray,Image data for patient_67
+patient_68,X-ray,Image data for patient_68
+patient_69,X-ray,Image data for patient_69
+patient_70,MRI,Image data for patient_70
+patient_71,CT Scan,Image data for patient_71
+patient_72,X-ray,Image data for patient_72
+patient_73,X-ray,Image data for patient_73
+patient_74,MRI,Image data for patient_74
+patient_75,X-ray,Image data for patient_75
+patient_76,MRI,Image data for patient_76
+patient_77,X-ray,Image data for patient_77
+patient_78,MRI,Image data for patient_78
+patient_79,MRI,Image data for patient_79
+patient_80,MRI,Image data for patient_80
+patient_81,CT Scan,Image data for patient_81
+patient_82,MRI,Image data for patient_82
+patient_83,MRI,Image data for patient_83
+patient_84,CT Scan,Image data for patient_84
+patient_85,MRI,Image data for patient_85
+patient_86,X-ray,Image data for patient_86
+patient_87,MRI,Image data for patient_87
+patient_88,MRI,Image data for patient_88
+patient_89,CT Scan,Image data for patient_89
+patient_90,CT Scan,Image data for patient_90
+patient_91,X-ray,Image data for patient_91
+patient_92,MRI,Image data for patient_92
+patient_93,MRI,Image data for patient_93
+patient_94,X-ray,Image data for patient_94
+patient_95,CT Scan,Image data for patient_95
+patient_96,X-ray,Image data for patient_96
+patient_97,CT Scan,Image data for patient_97
+patient_98,X-ray,Image data for patient_98
+patient_99,CT Scan,Image data for patient_99
+patient_100,X-ray,Image data for patient_100
+patient_101,MRI,Image data for patient_101
+patient_102,X-ray,Image data for patient_102
+patient_103,MRI,Image data for patient_103
+patient_104,X-ray,Image data for patient_104
+patient_105,CT Scan,Image data for patient_105
+patient_106,X-ray,Image data for patient_106
+patient_107,MRI,Image data for patient_107
+patient_108,CT Scan,Image data for patient_108
+patient_109,MRI,Image data for patient_109
+patient_110,CT Scan,Image data for patient_110
+patient_111,X-ray,Image data for patient_111
+patient_112,CT Scan,Image data for patient_112
+patient_113,MRI,Image data for patient_113
+patient_114,X-ray,Image data for patient_114
+patient_115,CT Scan,Image data for patient_115
+patient_116,X-ray,Image data for patient_116
+patient_117,MRI,Image data for patient_117
+patient_118,MRI,Image data for patient_118
+patient_119,CT Scan,Image data for patient_119
+patient_120,CT Scan,Image data for patient_120
+patient_121,MRI,Image data for patient_121
+patient_122,CT Scan,Image data for patient_122
+patient_123,CT Scan,Image data for patient_123
+patient_124,CT Scan,Image data for patient_124
+patient_125,X-ray,Image data for patient_125
+patient_126,CT Scan,Image data for patient_126
+patient_127,MRI,Image data for patient_127
+patient_128,MRI,Image data for patient_128
+patient_129,MRI,Image data for patient_129
+patient_130,MRI,Image data for patient_130
+patient_131,X-ray,Image data for patient_131
+patient_132,CT Scan,Image data for patient_132
+patient_133,X-ray,Image data for patient_133
+patient_134,MRI,Image data for patient_134
+patient_135,MRI,Image data for patient_135
+patient_136,MRI,Image data for patient_136
+patient_137,MRI,Image data for patient_137
+patient_138,MRI,Image data for patient_138
+patient_139,CT Scan,Image data for patient_139
+patient_140,CT Scan,Image data for patient_140
+patient_141,MRI,Image data for patient_141
+patient_142,MRI,Image data for patient_142
+patient_143,CT Scan,Image data for patient_143
+patient_144,X-ray,Image data for patient_144
+patient_145,MRI,Image data for patient_145
+patient_146,MRI,Image data for patient_146
+patient_147,CT Scan,Image data for patient_147
+patient_148,MRI,Image data for patient_148
+patient_149,MRI,Image data for patient_149
+patient_150,CT Scan,Image data for patient_150
+patient_151,CT Scan,Image data for patient_151
+patient_152,CT Scan,Image data for patient_152
+patient_153,CT Scan,Image data for patient_153
+patient_154,X-ray,Image data for patient_154
+patient_155,MRI,Image data for patient_155
+patient_156,CT Scan,Image data for patient_156
+patient_157,MRI,Image data for patient_157
+patient_158,X-ray,Image data for patient_158
+patient_159,CT Scan,Image data for patient_159
+patient_160,X-ray,Image data for patient_160
+patient_161,X-ray,Image data for patient_161
+patient_162,X-ray,Image data for patient_162
+patient_163,X-ray,Image data for patient_163
+patient_164,MRI,Image data for patient_164
+patient_165,CT Scan,Image data for patient_165
+patient_166,MRI,Image data for patient_166
+patient_167,CT Scan,Image data for patient_167
+patient_168,X-ray,Image data for patient_168
+patient_169,CT Scan,Image data for patient_169
+patient_170,MRI,Image data for patient_170
+patient_171,MRI,Image data for patient_171
+patient_172,MRI,Image data for patient_172
+patient_173,MRI,Image data for patient_173
+patient_174,X-ray,Image data for patient_174
+patient_175,MRI,Image data for patient_175
+patient_176,MRI,Image data for patient_176
+patient_177,CT Scan,Image data for patient_177
+patient_178,CT Scan,Image data for patient_178
+patient_179,CT Scan,Image data for patient_179
+patient_180,MRI,Image data for patient_180
+patient_181,CT Scan,Image data for patient_181
+patient_182,CT Scan,Image data for patient_182
+patient_183,CT Scan,Image data for patient_183
+patient_184,X-ray,Image data for patient_184
+patient_185,X-ray,Image data for patient_185
+patient_186,MRI,Image data for patient_186
+patient_187,MRI,Image data for patient_187
+patient_188,CT Scan,Image data for patient_188
+patient_189,X-ray,Image data for patient_189
+patient_190,MRI,Image data for patient_190
+patient_191,X-ray,Image data for patient_191
+patient_192,CT Scan,Image data for patient_192
+patient_193,CT Scan,Image data for patient_193
+patient_194,CT Scan,Image data for patient_194
+patient_195,X-ray,Image data for patient_195
+patient_196,MRI,Image data for patient_196
+patient_197,MRI,Image data for patient_197
+patient_198,MRI,Image data for patient_198
+patient_199,CT Scan,Image data for patient_199
+patient_200,X-ray,Image data for patient_200
+patient_201,X-ray,Image data for patient_201
+patient_202,MRI,Image data for patient_202
+patient_203,CT Scan,Image data for patient_203
+patient_204,CT Scan,Image data for patient_204
+patient_205,MRI,Image data for patient_205
+patient_206,CT Scan,Image data for patient_206
+patient_207,MRI,Image data for patient_207
+patient_208,CT Scan,Image data for patient_208
+patient_209,X-ray,Image data for patient_209
+patient_210,CT Scan,Image data for patient_210
+patient_211,X-ray,Image data for patient_211
+patient_212,MRI,Image data for patient_212
+patient_213,X-ray,Image data for patient_213
+patient_214,MRI,Image data for patient_214
+patient_215,X-ray,Image data for patient_215
+patient_216,X-ray,Image data for patient_216
+patient_217,X-ray,Image data for patient_217
+patient_218,CT Scan,Image data for patient_218
+patient_219,CT Scan,Image data for patient_219
+patient_220,MRI,Image data for patient_220
+patient_221,X-ray,Image data for patient_221
+patient_222,CT Scan,Image data for patient_222
+patient_223,X-ray,Image data for patient_223
+patient_224,CT Scan,Image data for patient_224
+patient_225,MRI,Image data for patient_225
+patient_226,MRI,Image data for patient_226
+patient_227,CT Scan,Image data for patient_227
+patient_228,MRI,Image data for patient_228
+patient_229,X-ray,Image data for patient_229
+patient_230,X-ray,Image data for patient_230
+patient_231,MRI,Image data for patient_231
+patient_232,CT Scan,Image data for patient_232
+patient_233,MRI,Image data for patient_233
+patient_234,X-ray,Image data for patient_234
+patient_235,CT Scan,Image data for patient_235
+patient_236,MRI,Image data for patient_236
+patient_237,CT Scan,Image data for patient_237
+patient_238,MRI,Image data for patient_238
+patient_239,CT Scan,Image data for patient_239
+patient_240,MRI,Image data for patient_240
+patient_241,X-ray,Image data for patient_241
+patient_242,CT Scan,Image data for patient_242
+patient_243,X-ray,Image data for patient_243
+patient_244,X-ray,Image data for patient_244
+patient_245,CT Scan,Image data for patient_245
+patient_246,X-ray,Image data for patient_246
+patient_247,CT Scan,Image data for patient_247
+patient_248,CT Scan,Image data for patient_248
+patient_249,X-ray,Image data for patient_249
+patient_250,MRI,Image data for patient_250
+patient_251,MRI,Image data for patient_251
+patient_252,CT Scan,Image data for patient_252
+patient_253,X-ray,Image data for patient_253
+patient_254,CT Scan,Image data for patient_254
+patient_255,CT Scan,Image data for patient_255
+patient_256,MRI,Image data for patient_256
+patient_257,CT Scan,Image data for patient_257
+patient_258,CT Scan,Image data for patient_258
+patient_259,MRI,Image data for patient_259
+patient_260,MRI,Image data for patient_260
+patient_261,CT Scan,Image data for patient_261
+patient_262,MRI,Image data for patient_262
+patient_263,CT Scan,Image data for patient_263
+patient_264,CT Scan,Image data for patient_264
+patient_265,CT Scan,Image data for patient_265
+patient_266,X-ray,Image data for patient_266
+patient_267,CT Scan,Image data for patient_267
+patient_268,X-ray,Image data for patient_268
+patient_269,MRI,Image data for patient_269
+patient_270,MRI,Image data for patient_270
+patient_271,MRI,Image data for patient_271
+patient_272,CT Scan,Image data for patient_272
+patient_273,MRI,Image data for patient_273
+patient_274,CT Scan,Image data for patient_274
+patient_275,X-ray,Image data for patient_275
+patient_276,CT Scan,Image data for patient_276
+patient_277,MRI,Image data for patient_277
+patient_278,CT Scan,Image data for patient_278
+patient_279,MRI,Image data for patient_279
+patient_280,X-ray,Image data for patient_280
+patient_281,X-ray,Image data for patient_281
+patient_282,CT Scan,Image data for patient_282
+patient_283,MRI,Image data for patient_283
+patient_284,X-ray,Image data for patient_284
+patient_285,X-ray,Image data for patient_285
+patient_286,CT Scan,Image data for patient_286
+patient_287,MRI,Image data for patient_287
+patient_288,MRI,Image data for patient_288
+patient_289,MRI,Image data for patient_289
+patient_290,X-ray,Image data for patient_290
+patient_291,CT Scan,Image data for patient_291
+patient_292,MRI,Image data for patient_292
+patient_293,X-ray,Image data for patient_293
+patient_294,X-ray,Image data for patient_294
+patient_295,CT Scan,Image data for patient_295
+patient_296,X-ray,Image data for patient_296
+patient_297,MRI,Image data for patient_297
+patient_298,X-ray,Image data for patient_298
+patient_299,MRI,Image data for patient_299
+patient_300,X-ray,Image data for patient_300
+patient_301,CT Scan,Image data for patient_301
+patient_302,MRI,Image data for patient_302
+patient_303,MRI,Image data for patient_303
+patient_304,MRI,Image data for patient_304
+patient_305,CT Scan,Image data for patient_305
+patient_306,CT Scan,Image data for patient_306
+patient_307,CT Scan,Image data for patient_307
+patient_308,X-ray,Image data for patient_308
+patient_309,X-ray,Image data for patient_309
+patient_310,MRI,Image data for patient_310
+patient_311,X-ray,Image data for patient_311
+patient_312,X-ray,Image data for patient_312
+patient_313,CT Scan,Image data for patient_313
+patient_314,X-ray,Image data for patient_314
+patient_315,CT Scan,Image data for patient_315
+patient_316,X-ray,Image data for patient_316
+patient_317,X-ray,Image data for patient_317
+patient_318,MRI,Image data for patient_318
+patient_319,MRI,Image data for patient_319
+patient_320,X-ray,Image data for patient_320
+patient_321,X-ray,Image data for patient_321
+patient_322,X-ray,Image data for patient_322
+patient_323,MRI,Image data for patient_323
+patient_324,CT Scan,Image data for patient_324
+patient_325,CT Scan,Image data for patient_325
+patient_326,CT Scan,Image data for patient_326
+patient_327,MRI,Image data for patient_327
+patient_328,X-ray,Image data for patient_328
+patient_329,MRI,Image data for patient_329
+patient_330,CT Scan,Image data for patient_330
+patient_331,MRI,Image data for patient_331
+patient_332,CT Scan,Image data for patient_332
+patient_333,X-ray,Image data for patient_333
+patient_334,MRI,Image data for patient_334
+patient_335,CT Scan,Image data for patient_335
+patient_336,X-ray,Image data for patient_336
+patient_337,CT Scan,Image data for patient_337
+patient_338,X-ray,Image data for patient_338
+patient_339,MRI,Image data for patient_339
+patient_340,CT Scan,Image data for patient_340
+patient_341,MRI,Image data for patient_341
+patient_342,CT Scan,Image data for patient_342
+patient_343,X-ray,Image data for patient_343
+patient_344,CT Scan,Image data for patient_344
+patient_345,X-ray,Image data for patient_345
+patient_346,X-ray,Image data for patient_346
+patient_347,CT Scan,Image data for patient_347
+patient_348,X-ray,Image data for patient_348
+patient_349,X-ray,Image data for patient_349
+patient_350,MRI,Image data for patient_350
+patient_351,CT Scan,Image data for patient_351
+patient_352,CT Scan,Image data for patient_352
+patient_353,MRI,Image data for patient_353
+patient_354,X-ray,Image data for patient_354
+patient_355,CT Scan,Image data for patient_355
+patient_356,X-ray,Image data for patient_356
+patient_357,X-ray,Image data for patient_357
+patient_358,X-ray,Image data for patient_358
+patient_359,CT Scan,Image data for patient_359
+patient_360,CT Scan,Image data for patient_360
+patient_361,MRI,Image data for patient_361
+patient_362,X-ray,Image data for patient_362
+patient_363,CT Scan,Image data for patient_363
+patient_364,X-ray,Image data for patient_364
+patient_365,MRI,Image data for patient_365
+patient_366,MRI,Image data for patient_366
+patient_367,X-ray,Image data for patient_367
+patient_368,CT Scan,Image data for patient_368
+patient_369,CT Scan,Image data for patient_369
+patient_370,CT Scan,Image data for patient_370
+patient_371,CT Scan,Image data for patient_371
+patient_372,X-ray,Image data for patient_372
+patient_373,X-ray,Image data for patient_373
+patient_374,CT Scan,Image data for patient_374
+patient_375,CT Scan,Image data for patient_375
+patient_376,X-ray,Image data for patient_376
+patient_377,MRI,Image data for patient_377
+patient_378,X-ray,Image data for patient_378
+patient_379,MRI,Image data for patient_379
+patient_380,MRI,Image data for patient_380
+patient_381,CT Scan,Image data for patient_381
+patient_382,X-ray,Image data for patient_382
+patient_383,MRI,Image data for patient_383
+patient_384,X-ray,Image data for patient_384
+patient_385,MRI,Image data for patient_385
+patient_386,X-ray,Image data for patient_386
+patient_387,MRI,Image data for patient_387
+patient_388,X-ray,Image data for patient_388
+patient_389,X-ray,Image data for patient_389
+patient_390,CT Scan,Image data for patient_390
+patient_391,MRI,Image data for patient_391
+patient_392,CT Scan,Image data for patient_392
+patient_393,MRI,Image data for patient_393
+patient_394,MRI,Image data for patient_394
+patient_395,MRI,Image data for patient_395
+patient_396,MRI,Image data for patient_396
+patient_397,X-ray,Image data for patient_397
+patient_398,CT Scan,Image data for patient_398
+patient_399,X-ray,Image data for patient_399
+patient_400,CT Scan,Image data for patient_400
+patient_401,CT Scan,Image data for patient_401
+patient_402,CT Scan,Image data for patient_402
+patient_403,CT Scan,Image data for patient_403
+patient_404,CT Scan,Image data for patient_404
+patient_405,CT Scan,Image data for patient_405
+patient_406,X-ray,Image data for patient_406
+patient_407,X-ray,Image data for patient_407
+patient_408,CT Scan,Image data for patient_408
+patient_409,CT Scan,Image data for patient_409
+patient_410,CT Scan,Image data for patient_410
+patient_411,X-ray,Image data for patient_411
+patient_412,MRI,Image data for patient_412
+patient_413,CT Scan,Image data for patient_413
+patient_414,MRI,Image data for patient_414
+patient_415,MRI,Image data for patient_415
+patient_416,X-ray,Image data for patient_416
+patient_417,MRI,Image data for patient_417
+patient_418,MRI,Image data for patient_418
+patient_419,X-ray,Image data for patient_419
+patient_420,CT Scan,Image data for patient_420
+patient_421,MRI,Image data for patient_421
+patient_422,MRI,Image data for patient_422
+patient_423,CT Scan,Image data for patient_423
+patient_424,X-ray,Image data for patient_424
+patient_425,MRI,Image data for patient_425
+patient_426,X-ray,Image data for patient_426
+patient_427,X-ray,Image data for patient_427
+patient_428,MRI,Image data for patient_428
+patient_429,X-ray,Image data for patient_429
+patient_430,CT Scan,Image data for patient_430
+patient_431,MRI,Image data for patient_431
+patient_432,X-ray,Image data for patient_432
+patient_433,CT Scan,Image data for patient_433
+patient_434,MRI,Image data for patient_434
+patient_435,X-ray,Image data for patient_435
+patient_436,MRI,Image data for patient_436
+patient_437,CT Scan,Image data for patient_437
+patient_438,X-ray,Image data for patient_438
+patient_439,CT Scan,Image data for patient_439
+patient_440,X-ray,Image data for patient_440
+patient_441,CT Scan,Image data for patient_441
+patient_442,MRI,Image data for patient_442
+patient_443,X-ray,Image data for patient_443
+patient_444,CT Scan,Image data for patient_444
+patient_445,CT Scan,Image data for patient_445
+patient_446,CT Scan,Image data for patient_446
+patient_447,CT Scan,Image data for patient_447
+patient_448,X-ray,Image data for patient_448
+patient_449,MRI,Image data for patient_449
+patient_450,MRI,Image data for patient_450
+patient_451,CT Scan,Image data for patient_451
+patient_452,X-ray,Image data for patient_452
+patient_453,X-ray,Image data for patient_453
+patient_454,MRI,Image data for patient_454
+patient_455,X-ray,Image data for patient_455
+patient_456,CT Scan,Image data for patient_456
+patient_457,CT Scan,Image data for patient_457
+patient_458,CT Scan,Image data for patient_458
+patient_459,X-ray,Image data for patient_459
+patient_460,X-ray,Image data for patient_460
+patient_461,X-ray,Image data for patient_461
+patient_462,CT Scan,Image data for patient_462
+patient_463,MRI,Image data for patient_463
+patient_464,MRI,Image data for patient_464
+patient_465,MRI,Image data for patient_465
+patient_466,X-ray,Image data for patient_466
+patient_467,X-ray,Image data for patient_467
+patient_468,MRI,Image data for patient_468
+patient_469,X-ray,Image data for patient_469
+patient_470,X-ray,Image data for patient_470
+patient_471,CT Scan,Image data for patient_471
+patient_472,CT Scan,Image data for patient_472
+patient_473,X-ray,Image data for patient_473
+patient_474,MRI,Image data for patient_474
+patient_475,CT Scan,Image data for patient_475
+patient_476,CT Scan,Image data for patient_476
+patient_477,X-ray,Image data for patient_477
+patient_478,X-ray,Image data for patient_478
+patient_479,MRI,Image data for patient_479
+patient_480,X-ray,Image data for patient_480
+patient_481,X-ray,Image data for patient_481
+patient_482,MRI,Image data for patient_482
+patient_483,CT Scan,Image data for patient_483
+patient_484,CT Scan,Image data for patient_484
+patient_485,X-ray,Image data for patient_485
+patient_486,MRI,Image data for patient_486
+patient_487,MRI,Image data for patient_487
+patient_488,X-ray,Image data for patient_488
+patient_489,CT Scan,Image data for patient_489
+patient_490,CT Scan,Image data for patient_490
+patient_491,X-ray,Image data for patient_491
+patient_492,MRI,Image data for patient_492
+patient_493,CT Scan,Image data for patient_493
+patient_494,CT Scan,Image data for patient_494
+patient_495,CT Scan,Image data for patient_495
+patient_496,X-ray,Image data for patient_496
+patient_497,MRI,Image data for patient_497
+patient_498,X-ray,Image data for patient_498
+patient_499,MRI,Image data for patient_499
+patient_500,MRI,Image data for patient_500
+patient_501,MRI,Image data for patient_501
+patient_502,MRI,Image data for patient_502
+patient_503,CT Scan,Image data for patient_503
+patient_504,X-ray,Image data for patient_504
+patient_505,X-ray,Image data for patient_505
+patient_506,MRI,Image data for patient_506
+patient_507,X-ray,Image data for patient_507
+patient_508,MRI,Image data for patient_508
+patient_509,X-ray,Image data for patient_509
+patient_510,CT Scan,Image data for patient_510
+patient_511,MRI,Image data for patient_511
+patient_512,CT Scan,Image data for patient_512
+patient_513,CT Scan,Image data for patient_513
+patient_514,CT Scan,Image data for patient_514
+patient_515,X-ray,Image data for patient_515
+patient_516,MRI,Image data for patient_516
+patient_517,CT Scan,Image data for patient_517
+patient_518,CT Scan,Image data for patient_518
+patient_519,CT Scan,Image data for patient_519
+patient_520,X-ray,Image data for patient_520
+patient_521,MRI,Image data for patient_521
+patient_522,MRI,Image data for patient_522
+patient_523,CT Scan,Image data for patient_523
+patient_524,MRI,Image data for patient_524
+patient_525,CT Scan,Image data for patient_525
+patient_526,MRI,Image data for patient_526
+patient_527,X-ray,Image data for patient_527
+patient_528,X-ray,Image data for patient_528
+patient_529,CT Scan,Image data for patient_529
+patient_530,X-ray,Image data for patient_530
+patient_531,X-ray,Image data for patient_531
+patient_532,X-ray,Image data for patient_532
+patient_533,MRI,Image data for patient_533
+patient_534,MRI,Image data for patient_534
+patient_535,X-ray,Image data for patient_535
+patient_536,MRI,Image data for patient_536
+patient_537,CT Scan,Image data for patient_537
+patient_538,CT Scan,Image data for patient_538
+patient_539,CT Scan,Image data for patient_539
+patient_540,X-ray,Image data for patient_540
+patient_541,MRI,Image data for patient_541
+patient_542,MRI,Image data for patient_542
+patient_543,CT Scan,Image data for patient_543
+patient_544,MRI,Image data for patient_544
+patient_545,X-ray,Image data for patient_545
+patient_546,CT Scan,Image data for patient_546
+patient_547,X-ray,Image data for patient_547
+patient_548,MRI,Image data for patient_548
+patient_549,X-ray,Image data for patient_549
+patient_550,CT Scan,Image data for patient_550
+patient_551,MRI,Image data for patient_551
+patient_552,X-ray,Image data for patient_552
+patient_553,CT Scan,Image data for patient_553
+patient_554,CT Scan,Image data for patient_554
+patient_555,MRI,Image data for patient_555
+patient_556,X-ray,Image data for patient_556
+patient_557,X-ray,Image data for patient_557
+patient_558,CT Scan,Image data for patient_558
+patient_559,X-ray,Image data for patient_559
+patient_560,CT Scan,Image data for patient_560
+patient_561,X-ray,Image data for patient_561
+patient_562,MRI,Image data for patient_562
+patient_563,X-ray,Image data for patient_563
+patient_564,X-ray,Image data for patient_564
+patient_565,CT Scan,Image data for patient_565
+patient_566,X-ray,Image data for patient_566
+patient_567,MRI,Image data for patient_567
+patient_568,MRI,Image data for patient_568
+patient_569,MRI,Image data for patient_569
+patient_570,MRI,Image data for patient_570
+patient_571,CT Scan,Image data for patient_571
+patient_572,CT Scan,Image data for patient_572
+patient_573,CT Scan,Image data for patient_573
+patient_574,X-ray,Image data for patient_574
+patient_575,X-ray,Image data for patient_575
+patient_576,MRI,Image data for patient_576
+patient_577,MRI,Image data for patient_577
+patient_578,MRI,Image data for patient_578
+patient_579,CT Scan,Image data for patient_579
+patient_580,CT Scan,Image data for patient_580
+patient_581,X-ray,Image data for patient_581
+patient_582,X-ray,Image data for patient_582
+patient_583,X-ray,Image data for patient_583
+patient_584,X-ray,Image data for patient_584
+patient_585,CT Scan,Image data for patient_585
+patient_586,MRI,Image data for patient_586
+patient_587,X-ray,Image data for patient_587
+patient_588,X-ray,Image data for patient_588
+patient_589,X-ray,Image data for patient_589
+patient_590,X-ray,Image data for patient_590
+patient_591,X-ray,Image data for patient_591
+patient_592,CT Scan,Image data for patient_592
+patient_593,MRI,Image data for patient_593
+patient_594,MRI,Image data for patient_594
+patient_595,CT Scan,Image data for patient_595
+patient_596,X-ray,Image data for patient_596
+patient_597,X-ray,Image data for patient_597
+patient_598,CT Scan,Image data for patient_598
+patient_599,CT Scan,Image data for patient_599
+patient_600,MRI,Image data for patient_600
+patient_601,MRI,Image data for patient_601
+patient_602,CT Scan,Image data for patient_602
+patient_603,CT Scan,Image data for patient_603
+patient_604,X-ray,Image data for patient_604
+patient_605,X-ray,Image data for patient_605
+patient_606,X-ray,Image data for patient_606
+patient_607,X-ray,Image data for patient_607
+patient_608,MRI,Image data for patient_608
+patient_609,MRI,Image data for patient_609
+patient_610,CT Scan,Image data for patient_610
+patient_611,X-ray,Image data for patient_611
+patient_612,MRI,Image data for patient_612
+patient_613,CT Scan,Image data for patient_613
+patient_614,CT Scan,Image data for patient_614
+patient_615,CT Scan,Image data for patient_615
+patient_616,CT Scan,Image data for patient_616
+patient_617,MRI,Image data for patient_617
+patient_618,CT Scan,Image data for patient_618
+patient_619,MRI,Image data for patient_619
+patient_620,X-ray,Image data for patient_620
+patient_621,MRI,Image data for patient_621
+patient_622,X-ray,Image data for patient_622
+patient_623,CT Scan,Image data for patient_623
+patient_624,X-ray,Image data for patient_624
+patient_625,MRI,Image data for patient_625
+patient_626,MRI,Image data for patient_626
+patient_627,MRI,Image data for patient_627
+patient_628,CT Scan,Image data for patient_628
+patient_629,X-ray,Image data for patient_629
+patient_630,CT Scan,Image data for patient_630
+patient_631,MRI,Image data for patient_631
+patient_632,MRI,Image data for patient_632
+patient_633,CT Scan,Image data for patient_633
+patient_634,MRI,Image data for patient_634
+patient_635,X-ray,Image data for patient_635
+patient_636,CT Scan,Image data for patient_636
+patient_637,CT Scan,Image data for patient_637
+patient_638,MRI,Image data for patient_638
+patient_639,MRI,Image data for patient_639
+patient_640,CT Scan,Image data for patient_640
+patient_641,MRI,Image data for patient_641
+patient_642,CT Scan,Image data for patient_642
+patient_643,X-ray,Image data for patient_643
+patient_644,X-ray,Image data for patient_644
+patient_645,CT Scan,Image data for patient_645
+patient_646,MRI,Image data for patient_646
+patient_647,CT Scan,Image data for patient_647
+patient_648,CT Scan,Image data for patient_648
+patient_649,MRI,Image data for patient_649
+patient_650,X-ray,Image data for patient_650
+patient_651,MRI,Image data for patient_651
+patient_652,CT Scan,Image data for patient_652
+patient_653,MRI,Image data for patient_653
+patient_654,CT Scan,Image data for patient_654
+patient_655,CT Scan,Image data for patient_655
+patient_656,X-ray,Image data for patient_656
+patient_657,MRI,Image data for patient_657
+patient_658,X-ray,Image data for patient_658
+patient_659,CT Scan,Image data for patient_659
+patient_660,MRI,Image data for patient_660
+patient_661,MRI,Image data for patient_661
+patient_662,X-ray,Image data for patient_662
+patient_663,MRI,Image data for patient_663
+patient_664,MRI,Image data for patient_664
+patient_665,CT Scan,Image data for patient_665
+patient_666,MRI,Image data for patient_666
+patient_667,CT Scan,Image data for patient_667
+patient_668,MRI,Image data for patient_668
+patient_669,MRI,Image data for patient_669
+patient_670,MRI,Image data for patient_670
+patient_671,X-ray,Image data for patient_671
+patient_672,MRI,Image data for patient_672
+patient_673,X-ray,Image data for patient_673
+patient_674,CT Scan,Image data for patient_674
+patient_675,X-ray,Image data for patient_675
+patient_676,CT Scan,Image data for patient_676
+patient_677,X-ray,Image data for patient_677
+patient_678,X-ray,Image data for patient_678
+patient_679,CT Scan,Image data for patient_679
+patient_680,X-ray,Image data for patient_680
+patient_681,X-ray,Image data for patient_681
+patient_682,MRI,Image data for patient_682
+patient_683,MRI,Image data for patient_683
+patient_684,X-ray,Image data for patient_684
+patient_685,X-ray,Image data for patient_685
+patient_686,X-ray,Image data for patient_686
+patient_687,MRI,Image data for patient_687
+patient_688,X-ray,Image data for patient_688
+patient_689,CT Scan,Image data for patient_689
+patient_690,CT Scan,Image data for patient_690
+patient_691,CT Scan,Image data for patient_691
+patient_692,MRI,Image data for patient_692
+patient_693,X-ray,Image data for patient_693
+patient_694,CT Scan,Image data for patient_694
+patient_695,X-ray,Image data for patient_695
+patient_696,X-ray,Image data for patient_696
+patient_697,MRI,Image data for patient_697
+patient_698,CT Scan,Image data for patient_698
+patient_699,X-ray,Image data for patient_699
+patient_700,X-ray,Image data for patient_700
+patient_701,X-ray,Image data for patient_701
+patient_702,CT Scan,Image data for patient_702
+patient_703,CT Scan,Image data for patient_703
+patient_704,X-ray,Image data for patient_704
+patient_705,X-ray,Image data for patient_705
+patient_706,MRI,Image data for patient_706
+patient_707,X-ray,Image data for patient_707
+patient_708,MRI,Image data for patient_708
+patient_709,CT Scan,Image data for patient_709
+patient_710,MRI,Image data for patient_710
+patient_711,CT Scan,Image data for patient_711
+patient_712,MRI,Image data for patient_712
+patient_713,X-ray,Image data for patient_713
+patient_714,X-ray,Image data for patient_714
+patient_715,MRI,Image data for patient_715
+patient_716,MRI,Image data for patient_716
+patient_717,X-ray,Image data for patient_717
+patient_718,MRI,Image data for patient_718
+patient_719,MRI,Image data for patient_719
+patient_720,X-ray,Image data for patient_720
+patient_721,MRI,Image data for patient_721
+patient_722,MRI,Image data for patient_722
+patient_723,MRI,Image data for patient_723
+patient_724,MRI,Image data for patient_724
+patient_725,X-ray,Image data for patient_725
+patient_726,X-ray,Image data for patient_726
+patient_727,CT Scan,Image data for patient_727
+patient_728,X-ray,Image data for patient_728
+patient_729,MRI,Image data for patient_729
+patient_730,CT Scan,Image data for patient_730
+patient_731,MRI,Image data for patient_731
+patient_732,X-ray,Image data for patient_732
+patient_733,X-ray,Image data for patient_733
+patient_734,X-ray,Image data for patient_734
+patient_735,X-ray,Image data for patient_735
+patient_736,MRI,Image data for patient_736
+patient_737,MRI,Image data for patient_737
+patient_738,MRI,Image data for patient_738
+patient_739,X-ray,Image data for patient_739
+patient_740,X-ray,Image data for patient_740
+patient_741,X-ray,Image data for patient_741
+patient_742,X-ray,Image data for patient_742
+patient_743,CT Scan,Image data for patient_743
+patient_744,X-ray,Image data for patient_744
+patient_745,MRI,Image data for patient_745
+patient_746,CT Scan,Image data for patient_746
+patient_747,CT Scan,Image data for patient_747
+patient_748,CT Scan,Image data for patient_748
+patient_749,CT Scan,Image data for patient_749
+patient_750,X-ray,Image data for patient_750
+patient_751,MRI,Image data for patient_751
+patient_752,MRI,Image data for patient_752
+patient_753,X-ray,Image data for patient_753
+patient_754,X-ray,Image data for patient_754
+patient_755,X-ray,Image data for patient_755
+patient_756,X-ray,Image data for patient_756
+patient_757,MRI,Image data for patient_757
+patient_758,MRI,Image data for patient_758
+patient_759,MRI,Image data for patient_759
+patient_760,X-ray,Image data for patient_760
+patient_761,X-ray,Image data for patient_761
+patient_762,MRI,Image data for patient_762
+patient_763,MRI,Image data for patient_763
+patient_764,MRI,Image data for patient_764
+patient_765,CT Scan,Image data for patient_765
+patient_766,X-ray,Image data for patient_766
+patient_767,X-ray,Image data for patient_767
+patient_768,X-ray,Image data for patient_768
+patient_769,X-ray,Image data for patient_769
+patient_770,CT Scan,Image data for patient_770
+patient_771,X-ray,Image data for patient_771
+patient_772,CT Scan,Image data for patient_772
+patient_773,X-ray,Image data for patient_773
+patient_774,X-ray,Image data for patient_774
+patient_775,X-ray,Image data for patient_775
+patient_776,X-ray,Image data for patient_776
+patient_777,MRI,Image data for patient_777
+patient_778,X-ray,Image data for patient_778
+patient_779,X-ray,Image data for patient_779
+patient_780,X-ray,Image data for patient_780
+patient_781,MRI,Image data for patient_781
+patient_782,MRI,Image data for patient_782
+patient_783,X-ray,Image data for patient_783
+patient_784,X-ray,Image data for patient_784
+patient_785,MRI,Image data for patient_785
+patient_786,X-ray,Image data for patient_786
+patient_787,MRI,Image data for patient_787
+patient_788,X-ray,Image data for patient_788
+patient_789,CT Scan,Image data for patient_789
+patient_790,X-ray,Image data for patient_790
+patient_791,X-ray,Image data for patient_791
+patient_792,X-ray,Image data for patient_792
+patient_793,MRI,Image data for patient_793
+patient_794,MRI,Image data for patient_794
+patient_795,CT Scan,Image data for patient_795
+patient_796,MRI,Image data for patient_796
+patient_797,X-ray,Image data for patient_797
+patient_798,MRI,Image data for patient_798
+patient_799,CT Scan,Image data for patient_799
+patient_800,MRI,Image data for patient_800
+patient_801,CT Scan,Image data for patient_801
+patient_802,X-ray,Image data for patient_802
+patient_803,X-ray,Image data for patient_803
+patient_804,X-ray,Image data for patient_804
+patient_805,MRI,Image data for patient_805
+patient_806,CT Scan,Image data for patient_806
+patient_807,X-ray,Image data for patient_807
+patient_808,MRI,Image data for patient_808
+patient_809,CT Scan,Image data for patient_809
+patient_810,X-ray,Image data for patient_810
+patient_811,X-ray,Image data for patient_811
+patient_812,MRI,Image data for patient_812
+patient_813,CT Scan,Image data for patient_813
+patient_814,CT Scan,Image data for patient_814
+patient_815,CT Scan,Image data for patient_815
+patient_816,MRI,Image data for patient_816
+patient_817,CT Scan,Image data for patient_817
+patient_818,MRI,Image data for patient_818
+patient_819,CT Scan,Image data for patient_819
+patient_820,X-ray,Image data for patient_820
+patient_821,CT Scan,Image data for patient_821
+patient_822,MRI,Image data for patient_822
+patient_823,MRI,Image data for patient_823
+patient_824,MRI,Image data for patient_824
+patient_825,X-ray,Image data for patient_825
+patient_826,CT Scan,Image data for patient_826
+patient_827,X-ray,Image data for patient_827
+patient_828,X-ray,Image data for patient_828
+patient_829,CT Scan,Image data for patient_829
+patient_830,CT Scan,Image data for patient_830
+patient_831,MRI,Image data for patient_831
+patient_832,MRI,Image data for patient_832
+patient_833,MRI,Image data for patient_833
+patient_834,MRI,Image data for patient_834
+patient_835,CT Scan,Image data for patient_835
+patient_836,CT Scan,Image data for patient_836
+patient_837,MRI,Image data for patient_837
+patient_838,X-ray,Image data for patient_838
+patient_839,CT Scan,Image data for patient_839
+patient_840,MRI,Image data for patient_840
+patient_841,X-ray,Image data for patient_841
+patient_842,CT Scan,Image data for patient_842
+patient_843,MRI,Image data for patient_843
+patient_844,X-ray,Image data for patient_844
+patient_845,CT Scan,Image data for patient_845
+patient_846,CT Scan,Image data for patient_846
+patient_847,X-ray,Image data for patient_847
+patient_848,CT Scan,Image data for patient_848
+patient_849,X-ray,Image data for patient_849
+patient_850,X-ray,Image data for patient_850
+patient_851,X-ray,Image data for patient_851
+patient_852,CT Scan,Image data for patient_852
+patient_853,CT Scan,Image data for patient_853
+patient_854,CT Scan,Image data for patient_854
+patient_855,X-ray,Image data for patient_855
+patient_856,X-ray,Image data for patient_856
+patient_857,MRI,Image data for patient_857
+patient_858,X-ray,Image data for patient_858
+patient_859,MRI,Image data for patient_859
+patient_860,MRI,Image data for patient_860
+patient_861,MRI,Image data for patient_861
+patient_862,MRI,Image data for patient_862
+patient_863,CT Scan,Image data for patient_863
+patient_864,CT Scan,Image data for patient_864
+patient_865,MRI,Image data for patient_865
+patient_866,CT Scan,Image data for patient_866
+patient_867,CT Scan,Image data for patient_867
+patient_868,MRI,Image data for patient_868
+patient_869,MRI,Image data for patient_869
+patient_870,CT Scan,Image data for patient_870
+patient_871,MRI,Image data for patient_871
+patient_872,MRI,Image data for patient_872
+patient_873,CT Scan,Image data for patient_873
+patient_874,MRI,Image data for patient_874
+patient_875,CT Scan,Image data for patient_875
+patient_876,CT Scan,Image data for patient_876
+patient_877,X-ray,Image data for patient_877
+patient_878,MRI,Image data for patient_878
+patient_879,MRI,Image data for patient_879
+patient_880,MRI,Image data for patient_880
+patient_881,X-ray,Image data for patient_881
+patient_882,X-ray,Image data for patient_882
+patient_883,X-ray,Image data for patient_883
+patient_884,MRI,Image data for patient_884
+patient_885,MRI,Image data for patient_885
+patient_886,CT Scan,Image data for patient_886
+patient_887,CT Scan,Image data for patient_887
+patient_888,MRI,Image data for patient_888
+patient_889,CT Scan,Image data for patient_889
+patient_890,MRI,Image data for patient_890
+patient_891,CT Scan,Image data for patient_891
+patient_892,CT Scan,Image data for patient_892
+patient_893,X-ray,Image data for patient_893
+patient_894,CT Scan,Image data for patient_894
+patient_895,MRI,Image data for patient_895
+patient_896,X-ray,Image data for patient_896
+patient_897,CT Scan,Image data for patient_897
+patient_898,X-ray,Image data for patient_898
+patient_899,CT Scan,Image data for patient_899
+patient_900,MRI,Image data for patient_900
+patient_901,X-ray,Image data for patient_901
+patient_902,MRI,Image data for patient_902
+patient_903,MRI,Image data for patient_903
+patient_904,X-ray,Image data for patient_904
+patient_905,CT Scan,Image data for patient_905
+patient_906,CT Scan,Image data for patient_906
+patient_907,CT Scan,Image data for patient_907
+patient_908,CT Scan,Image data for patient_908
+patient_909,CT Scan,Image data for patient_909
+patient_910,X-ray,Image data for patient_910
+patient_911,X-ray,Image data for patient_911
+patient_912,CT Scan,Image data for patient_912
+patient_913,X-ray,Image data for patient_913
+patient_914,CT Scan,Image data for patient_914
+patient_915,X-ray,Image data for patient_915
+patient_916,MRI,Image data for patient_916
+patient_917,CT Scan,Image data for patient_917
+patient_918,MRI,Image data for patient_918
+patient_919,X-ray,Image data for patient_919
+patient_920,X-ray,Image data for patient_920
+patient_921,CT Scan,Image data for patient_921
+patient_922,X-ray,Image data for patient_922
+patient_923,CT Scan,Image data for patient_923
+patient_924,CT Scan,Image data for patient_924
+patient_925,X-ray,Image data for patient_925
+patient_926,X-ray,Image data for patient_926
+patient_927,X-ray,Image data for patient_927
+patient_928,MRI,Image data for patient_928
+patient_929,X-ray,Image data for patient_929
+patient_930,MRI,Image data for patient_930
+patient_931,X-ray,Image data for patient_931
+patient_932,MRI,Image data for patient_932
+patient_933,MRI,Image data for patient_933
+patient_934,X-ray,Image data for patient_934
+patient_935,X-ray,Image data for patient_935
+patient_936,X-ray,Image data for patient_936
+patient_937,CT Scan,Image data for patient_937
+patient_938,MRI,Image data for patient_938
+patient_939,CT Scan,Image data for patient_939
+patient_940,X-ray,Image data for patient_940
+patient_941,X-ray,Image data for patient_941
+patient_942,X-ray,Image data for patient_942
+patient_943,X-ray,Image data for patient_943
+patient_944,CT Scan,Image data for patient_944
+patient_945,CT Scan,Image data for patient_945
+patient_946,MRI,Image data for patient_946
+patient_947,X-ray,Image data for patient_947
+patient_948,CT Scan,Image data for patient_948
+patient_949,MRI,Image data for patient_949
+patient_950,CT Scan,Image data for patient_950
+patient_951,CT Scan,Image data for patient_951
+patient_952,MRI,Image data for patient_952
+patient_953,CT Scan,Image data for patient_953
+patient_954,CT Scan,Image data for patient_954
+patient_955,MRI,Image data for patient_955
+patient_956,CT Scan,Image data for patient_956
+patient_957,X-ray,Image data for patient_957
+patient_958,MRI,Image data for patient_958
+patient_959,MRI,Image data for patient_959
+patient_960,X-ray,Image data for patient_960
+patient_961,X-ray,Image data for patient_961
+patient_962,CT Scan,Image data for patient_962
+patient_963,CT Scan,Image data for patient_963
+patient_964,MRI,Image data for patient_964
+patient_965,CT Scan,Image data for patient_965
+patient_966,MRI,Image data for patient_966
+patient_967,X-ray,Image data for patient_967
+patient_968,X-ray,Image data for patient_968
+patient_969,MRI,Image data for patient_969
+patient_970,MRI,Image data for patient_970
+patient_971,MRI,Image data for patient_971
+patient_972,X-ray,Image data for patient_972
+patient_973,X-ray,Image data for patient_973
+patient_974,CT Scan,Image data for patient_974
+patient_975,MRI,Image data for patient_975
+patient_976,MRI,Image data for patient_976
+patient_977,X-ray,Image data for patient_977
+patient_978,X-ray,Image data for patient_978
+patient_979,MRI,Image data for patient_979
+patient_980,MRI,Image data for patient_980
+patient_981,CT Scan,Image data for patient_981
+patient_982,MRI,Image data for patient_982
+patient_983,CT Scan,Image data for patient_983
+patient_984,MRI,Image data for patient_984
+patient_985,CT Scan,Image data for patient_985
+patient_986,X-ray,Image data for patient_986
+patient_987,MRI,Image data for patient_987
+patient_988,CT Scan,Image data for patient_988
+patient_989,X-ray,Image data for patient_989
+patient_990,X-ray,Image data for patient_990
+patient_991,MRI,Image data for patient_991
+patient_992,X-ray,Image data for patient_992
+patient_993,CT Scan,Image data for patient_993
+patient_994,CT Scan,Image data for patient_994
+patient_995,X-ray,Image data for patient_995
+patient_996,X-ray,Image data for patient_996
+patient_997,MRI,Image data for patient_997
+patient_998,CT Scan,Image data for patient_998
+patient_999,MRI,Image data for patient_999
